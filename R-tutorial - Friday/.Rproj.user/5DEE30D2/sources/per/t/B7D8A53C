@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539981080139.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2921809068",
+    "id" : "B7D8A53C",
+    "lastKnownWriteTime" : 1540179560,
+    "last_content_update" : 1540179560890,
+    "path" : "~/GitHub/problem-set-7-a-zhukova/R-tutorial - Friday/Assign 7 R-script.R",
+    "project_path" : "Assign 7 R-script.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
